@@ -12,6 +12,7 @@ How It Works
 
 See It In Action
 Public Lindy link: - https://chat.lindy.ai/home/?templateId=6a63c1295acf5ea17b5b6507
+Job Form :- https://forms.gle/2BFXUMkf129ieeL97
 
 Tools Used
 - Lindy (AI agent-building platform)
